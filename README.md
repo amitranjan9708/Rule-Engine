@@ -15,7 +15,7 @@ A simple 3-tier rule engine application(Simple UI, API and Backend, Data) to det
   - [Start the Frontend Application](#start-the-frontend-application)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [How to Use].(#how-to-use)
+- [How to Use](#how-to-use)
 
 ## Features
 
