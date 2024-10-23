@@ -128,5 +128,25 @@ Evaluate a Rule: POST /api/rules/evaluate
 
 Refer to the API documentation for more details on each endpoint.
 
+# How to use
+create a rule by enterinh any rule inside the create rule inbox
+
+now click on create rule
+
+now a alert will be pop up 
+
+copy the rule id for future reference
+
+
+
+now the evaluation part
+
+
+if you have rule id then write it in the rule id section 
+
+and fill all other details
+
+and click on evaluate
+
 ______________________________________________________________________________________________________________________________________________________________________
 
